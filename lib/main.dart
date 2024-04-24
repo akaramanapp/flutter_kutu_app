@@ -16,6 +16,7 @@ final List<KutuModeli> meyveler = [
   KutuModeli('resimler/meyveler/seftali.png', Colors.blueAccent, Colors.green),
   KutuModeli('resimler/meyveler/kiraz.png', Colors.red, Colors.blue),
   KutuModeli('resimler/meyveler/muz.png', Colors.blueAccent, Colors.green),
+  KutuModeli('resimler/meyveler/muz.png', Colors.blueAccent, Colors.green),
 ];
 
 class MainApp extends StatelessWidget {
